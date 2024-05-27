@@ -62,6 +62,7 @@ Caso não possua essa extensao, vá em Extensões e instale `Live Server`.
 ## Tecnologias Utilizadas
 - `HTML`
 - `CSS`
+- `Bootstrap`
 
 <br>
 
