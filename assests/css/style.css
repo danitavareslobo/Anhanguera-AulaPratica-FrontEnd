@@ -19,6 +19,7 @@ img {
 
 .item {
     display: block;
+    height: 700px;
 }
 
 li {
